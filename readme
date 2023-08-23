@@ -1,4 +1,8 @@
 kkkk
 my file 
 new table 
+<<<<<<< HEAD
 khjjh
+=======
+my new line 
+>>>>>>> 22a28d5 ( commit in bug)
